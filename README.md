@@ -43,3 +43,10 @@ Seasons - Winter, Spring, Summer, Autumn
 Holiday - Holiday/No holiday
 
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+The Goal of this project is to develop regression models that incorporate historical usage patterns with weather, holiday, weekend data, among other criteria, to calculate the demand for rental bikes. In this project, various types regression models has been made which makes an attempt to estimate the total number of bicycles rented each hour.
+
+we created different Regression Models in the form of linear regression, decision tree etc. we performed the Regularisation of the linear model with the help of Rigde regression, Lasso regression and ElasticNet regession.
+Also, we performed the Hyper parameter tuning of decision tree model with the help of  Random Forest, Gradient Boosting and eXtreme Boosting.
+Then, we evaluated all the above models with the help of Evaluation Metrics such as Mean squared error, Root mean squared error, R-square , Adjusted R-square  . 
+
